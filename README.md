@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/GordonGilbertsonDevelopment/SpaceGame%20-%20web%20-%20workflfow/_apis/build/status/gordonGilbertsonDevelopment.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/GordonGilbertsonDevelopment/SpaceGame%20-%20web%20-%20workflfow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
